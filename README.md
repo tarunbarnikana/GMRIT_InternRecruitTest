@@ -6,7 +6,7 @@ you will need an ubuntu operating system to complete the assignment within the t
 clone this repository 
 
 using git clone repo_name
-create a new branch 
+create a new branch as your rollnumber_yourname
 
 write a python program to extract links from the .html page included in the repo into a .txt file.
 
@@ -16,10 +16,12 @@ in the same file write a commands
 create a database, 
 create a table user
 
+
+
 +--------------------------------------+--------------+--------------------------------------+
 | interestid                           | interestname | userid                               |
 +--------------------------------------+--------------+--------------------------------------+
-| fde29dc7-0d46-4949-954a-46c60de411a5 | Projects     | 40b0f97a-5e21-4250-b016-7cea1a630f91 |
+| fde29dc7-0d46-4949-954a-46c60de411a5 | Projects     | 40b0f97a-5e21-4250-b016              |
 +--------------------------------------+--------------+--------------------------------------+
 
 populate the table randomly with 100,000 rows the following interestnames Projects,startups,travel,food,music,pets,relationships and the interestid and userids with different  uuid4
