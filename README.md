@@ -43,7 +43,6 @@ The table must contain three columns named as userid, interestid, interestname.
 | interestid                           | interestname | userid                               |
 |:---     |:---: |---:|
 | fde29dc7-0d46-4949-954a-46c60de411a5 | Projects     | 40b0f97a-5e21-4250-b016              |
-|--------------------------------------|--------------|--------------------------------------|
 
 2. Populate the table randomly with 100,000 rows.
 
