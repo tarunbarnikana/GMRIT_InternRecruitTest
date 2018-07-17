@@ -18,6 +18,7 @@ Before you begin the task, ensure you have the following available with you.
 
 Clone this repository on to your github account.
 
+- Fork the repository to your own github account.
 - Use "git clone repo_name" to clone on to your PC using Terminal or clone using the Github desktop app.
 - Create a new branch with the name in the format: rollnumber_yourfullname. (Example: "13341A0586_ramharsha")
 
